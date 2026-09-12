@@ -33,7 +33,7 @@ Can historical data be used to predict bike rental demand and improve fleet and 
 
 Tool:
 
-KNIME Analytics Platform
+KNIME Machine Learning Analytics Platform
 
 Techniques:
 
